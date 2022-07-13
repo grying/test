@@ -1,0 +1,70 @@
+[
+  {
+    "id": 0,
+    "name": "BIG BIG Burger",
+    "price": 123,
+    "img": "https://static9.depositphotos.com/1625039/1128/i/450/depositphotos_11286374-stock-photo-bacon-cheeseburgers.jpg"
+  },
+  {
+    "id": 1,
+    "name": "BIG BIG Burger",
+    "price": 123,
+    "img": "https://static9.depositphotos.com/1625039/1128/i/450/depositphotos_11286374-stock-photo-bacon-cheeseburgers.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "BIG BIG Burger",
+    "price": 123,
+    "img": "https://static9.depositphotos.com/1625039/1128/i/450/depositphotos_11286374-stock-photo-bacon-cheeseburgers.jpg"
+  },
+  {
+    "id": 3,
+    "name": "BIG BIG Burger",
+    "price": 123,
+    "img": "https://static9.depositphotos.com/1625039/1128/i/450/depositphotos_11286374-stock-photo-bacon-cheeseburgers.jpg"
+  },
+  {
+    "id": 4,
+    "name": "BIG BIG Burger",
+    "price": 123,
+    "img": "https://static9.depositphotos.com/1625039/1128/i/450/depositphotos_11286374-stock-photo-bacon-cheeseburgers.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "BIG BIG Burger",
+    "price": 123,
+    "img": "https://static9.depositphotos.com/1625039/1128/i/450/depositphotos_11286374-stock-photo-bacon-cheeseburgers.jpg"
+  },
+  {
+    "id": 6,
+    "name": "BIG BIG Burger",
+    "price": 123,
+    "img": "https://static9.depositphotos.com/1625039/1128/i/450/depositphotos_11286374-stock-photo-bacon-cheeseburgers.jpg"
+  },
+  {
+    "id": 7,
+    "name": "BIG BIG Burger",
+    "price": 123,
+    "img": "https://static9.depositphotos.com/1625039/1128/i/450/depositphotos_11286374-stock-photo-bacon-cheeseburgers.jpg"
+  },
+  {
+    "id": 8,
+    "name": "BIG BIG Burger",
+    "price": 123,
+    "img": "https://static9.depositphotos.com/1625039/1128/i/450/depositphotos_11286374-stock-photo-bacon-cheeseburgers.jpg"
+  },
+  {
+    "id": 9,
+    "name": "BIG BIG Burger",
+    "price": 123,
+    "img": "https://static9.depositphotos.com/1625039/1128/i/450/depositphotos_11286374-stock-photo-bacon-cheeseburgers.jpg"
+  },
+  {
+    "id": 10,
+    "name": "BIG BIG Burger",
+    "price": 123,
+    "img": "https://static9.depositphotos.com/1625039/1128/i/450/depositphotos_11286374-stock-photo-bacon-cheeseburgers.jpg"
+  }
+]

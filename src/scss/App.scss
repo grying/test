@@ -1,0 +1,27 @@
+@import "./component/Home";
+
+@import "./component/Basket";
+
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  span{
+   margin: 0 10px 0 10px;  
+  }
+}
+.wrapper {
+  max-width: 1110px;
+  margin: 0 auto;
+  padding: 0 23px 0 23px;
+  min-height: 100vh;
+
+  position: relative;
+}
